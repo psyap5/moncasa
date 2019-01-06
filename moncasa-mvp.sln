@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "moncasa-mvp", "moncasa-mvp\moncasa-mvp.csproj", "{930B3DEC-FB36-4CE7-9559-3BE228A0A8AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "moncasa-mvp.Tests", "moncasa-mvp.Tests\moncasa-mvp.Tests.csproj", "{2C1A1ECE-8C03-4536-AA09-AAD003AFA693}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{930B3DEC-FB36-4CE7-9559-3BE228A0A8AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{930B3DEC-FB36-4CE7-9559-3BE228A0A8AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{930B3DEC-FB36-4CE7-9559-3BE228A0A8AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{930B3DEC-FB36-4CE7-9559-3BE228A0A8AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C1A1ECE-8C03-4536-AA09-AAD003AFA693}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C1A1ECE-8C03-4536-AA09-AAD003AFA693}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C1A1ECE-8C03-4536-AA09-AAD003AFA693}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C1A1ECE-8C03-4536-AA09-AAD003AFA693}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
